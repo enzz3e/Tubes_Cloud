@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Downloads/Jurnal Baru/final_web/repository/getAllData.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/dml.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/address/addAddress.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/address/deleteAddress.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/address/editAddress.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/contact/addContact.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/contact/deleteContact.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/contact/editContact.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/customer/addCustomer.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/customer/deleteCustomer.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/customer/editCustomer.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/getAllData.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/item/addItem.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/item/deleteItem.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/item/editItem.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/purchase_supplier/actionAddPurchase.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/purchase_supplier/actionDeletePurchase.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/sale_customer/actionAddSale.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/sale_customer/actionDeleteSale.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/supplier/deleteSupplier.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/supplier/editSupplier.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/view/viewDetailPurchase.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/view/viewDetailSale.php" dialect="GenericSQL" />
+  </component>
+</project>
